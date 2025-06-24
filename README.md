@@ -92,7 +92,7 @@ The system uses a **3-tier architecture**:
 
 ### 3. Data Layer (Database)
 - **MySQL** or **PostgreSQL** for structured relational data
-- Tables: Users, Medicines, Stock, Sales, Customers, Suppliers, ActivityLog
+- Tables: users, medicines, stock, sales, sale_items, expiry_records 
 
 ---
 
