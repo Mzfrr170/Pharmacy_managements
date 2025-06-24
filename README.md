@@ -107,10 +107,3 @@ The system uses a **3-tier architecture**:
 | Security | JWT, bcrypt       | Secure login and password hashing |
 
 ---
-
-
-
-
-
-
-
